@@ -1,0 +1,11 @@
+digraph {
+    graph [ rankdir=TB ]
+
+    0 [ label="petal length (cm)<2.3499999" ]
+    0 -> 1 [label="yes, missing" color="#0000FF"]
+    0 -> 2 [label="no" color="#FF0000"]
+
+    1 [ label="leaf=0.424203843" ]
+
+    2 [ label="leaf=-0.218446627" ]
+}

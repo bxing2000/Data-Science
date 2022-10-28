@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\billx\\anaconda3\\envs\\dbconnect\\python.exe",
+    "databricks.workspaceConfiguration": {
+        "workspaceGuid": "6689286f-9333-2120-5d7b-75a863c5f902",
+        "lastActiveConnection": "Development-Databricks"
+    },
+    "jupyter.jupyterServerType": "local",
+    "databricks.lastActiveConnection": "Development-Databricks"
+}
